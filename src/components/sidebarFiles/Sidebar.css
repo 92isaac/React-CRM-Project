@@ -1,0 +1,39 @@
+.main{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  border: .1px solid #000;
+  height: 100vh;
+  width: 260px;
+  /* background-color: #dbdbdb; */
+}
+
+.logo{
+  text-decoration: none;
+  margin-bottom: 3px;
+  color: #dbdbdb;
+  margin: 10px;
+  text-decoration: none;
+
+}
+
+.avatar-desc{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.avatar-desc img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.userDetails{
+  line-height: 10px;
+}
+
+.settings{
+  margin-top: 3px;
+}

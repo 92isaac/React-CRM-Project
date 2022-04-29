@@ -1,0 +1,15 @@
+.dashboard{
+  background-color: #fff;
+}
+
+li{
+  list-style-type: none;
+}
+
+ul li{
+  line-height: 35px;
+}
+
+li .links{
+  text-decoration: none;
+}

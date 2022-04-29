@@ -1,0 +1,6 @@
+ul{
+  display: inline-block;
+  flex-direction: column;
+  justify-content: space-between;
+  
+}

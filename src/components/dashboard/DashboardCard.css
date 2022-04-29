@@ -1,0 +1,41 @@
+.cards-desc{
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  width: 600px;
+  height: 100px;
+}
+
+.card-title{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  line-height: 1px;
+}
+
+
+.card-title span{
+  font-size: xx-small;
+  padding-right: 15px;
+  line-height: 1px;
+
+}
+.card-title h4{
+  padding-bottom: 0;
+  line-height: 1px;
+}
+.cards-desc p{
+  padding-top: 0;
+  font-size: smaller;
+  margin-top: 0;
+}
+.cards-details p{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.cards-details button{
+
+}
